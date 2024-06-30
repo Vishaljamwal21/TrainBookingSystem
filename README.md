@@ -16,7 +16,6 @@ This project is a Train Booking System built using the ASP.NET Core MVC framewor
 ### Prerequisites
 
 - Visual Studio 2022
-- .NET 6.0 SDK
 - SQL Server or any preferred database
 
 ### Steps
